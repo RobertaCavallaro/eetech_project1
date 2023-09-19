@@ -1,0 +1,7 @@
+Progetto Android con React Native
+Questo è un esempio di progetto Android realizzato con React Native che dimostra l'utilizzo di un database ospitato su AWS RDS. Il database contiene dati di esempio per due utenti: Roberta e Maria. Questo README fornisce istruzioni su come configurare il progetto ed eseguirlo in un emulatore Android utilizzando Android Studio.
+Prerequisiti
+Prima di iniziare, assicurati di avere i seguenti prerequisiti:
+Node.js e npm installati sul tuo computer di sviluppo. Puoi scaricarli da nodejs.org.
+Android Studio installato con un dispositivo virtuale Android (AVD) configurato. Puoi scaricare Android Studio da developer.android.com/studio.
+Un'istanza AWS RDS configurata con i dati di esempio per Roberta e Maria.
